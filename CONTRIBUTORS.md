@@ -400,3 +400,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
+
+#### Name: Alexandre Insua Moreira
+ - Place: Vigo, Galicia, Spain
+ - Bio: Fullstack developer
+ - Github: [AlexandreInsua](https://github.com/AlexandreInsua)
